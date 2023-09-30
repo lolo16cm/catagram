@@ -14,35 +14,32 @@ const defaultProps = {
   cats: [
     { 
       name: 'Eevee', 
-      age: 3,
+      birthYear: 2019,
+      birthMonth: 3,
+      vYear: 2023,
+      vMonth: 'Aug',
       src: eeveeImg,
-      facts: [ 
-        'Eevee talks alot!',
-        'Eevee does not gain fat',
-        'Eevee is very nauty.'
-      ]
+      facts: 'Eevee, our pampered sweetheart, adores treats without gaining weight, is talkative, and remarkably understands conversations well.'
     },
 
     { 
       name: 'Pichu', 
-      age: 3,
+      birthYear: 2019,
+      birthMonth: 3,
+      vYear: 2023,
+      vMonth: 'Aug',
       src: pichuImg,
-      facts: [
-        'Eevee sleeps a lot!',
-        'Eevee likes human',
-        'Eevee is quiet and playful.'
-      ]
+      facts: 'Pichu, a drama queen, gets easily annoyed by trivial matters, adores humans, but not so much cats.'
     },
 
     { 
       name: 'Raichu', 
-      age: 2,
+      birthYear: 2021,
+      birthMonth: 4,
+      vYear: 2023,
+      vMonth: 'Aug',
       src: raichuImg,
-      facts: [
-        'Raichu is chunky!',
-        'She is very friendly to everyone stranger.',
-        'Eevee is very playful, and afraid of lonely.'
-      ]
+      facts: 'Raichu excels as a PR, warmly greeting all, even strangers, with an appetite for everything, disliking solitude.'
     }
   ]
 }
