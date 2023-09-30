@@ -1,0 +1,9 @@
+.CatDetails-card{
+    box-shadow:  0 19px 38px rgba(0,0,0,0.3), 0 15px 12px rgba(0,0,0,0.1);
+}
+
+.card-img-tip{
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px; 
+}
