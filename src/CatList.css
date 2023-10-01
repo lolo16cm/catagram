@@ -52,6 +52,6 @@
     left: 0;
 }
 
-@media only screen and (max-height: 1500px){
-    .Cat img{width: 95%;}
-}
+/* @media only screen and (max-height: 1500px){
+    .Cat img{width: 85%;}
+} */
